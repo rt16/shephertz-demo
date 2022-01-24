@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "190301032791",
+    "project_id": "mother-app-53f28",
+    "storage_bucket": "mother-app-53f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190301032791:android:d378c21a546f06f6c0ae12",
+        "android_client_info": {
+          "package_name": "com.icicisecurities.idirectalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190301032791-cajkeele22umqqtnr5gadq4dsf8f4433.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVXQpd2ptqre7xwWwZ13IAIGpy5Qri-hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190301032791-cajkeele22umqqtnr5gadq4dsf8f4433.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190301032791-jparngpgve3qre29d3ke7p170he4ba50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icicisecurities.idirectalpha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
